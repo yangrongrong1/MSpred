@@ -1,0 +1,6 @@
+id,sequence,probability,label
+seq1,RVRRRRGRWR,0.9669094,MS inducer
+seq2,SKTSASIGSLCADARMYGVLP,0.35547403,MS non-inducer
+seq3,YEYLINVIHAFQYVIYG,0.39843592,MS non-inducer
+seq4,IPFLGIRET,0.39309838,MS non-inducer
+seq5,GQIGNDPNRDIL,0.14078829,MS non-inducer
